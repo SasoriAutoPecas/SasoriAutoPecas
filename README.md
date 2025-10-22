@@ -1,5 +1,12 @@
-<h2 align="left">Olá 👋! Meu nome é Kauê Vinicius, sou Desenvolvedor Full-stack e moro no Brasil.</h2>
-
+<div align="left">
+  <h2>Hey there! I'm Kauê, aka @SasoriAutoPecas 👋</h2>
+  <p>
+    My journey to becoming a <strong>Full-Stack Developer</strong> 💻 has been a unique one. I've worked all kinds of jobs—from a charcoal plant and a bakery to even selling ice cream on the beach! 🍦
+  </p>
+  <p>
+    These days, I channel that hustle into code, with a deep interest in the field of <strong>Forensic Analysis</strong>. 🕵️‍♂️
+  </p>
+</div>
 ###
 
 <div align="center">
