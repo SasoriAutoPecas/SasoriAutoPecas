@@ -38,6 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
 </div>
 
+###
 
 <div align="left">
   <a href="httpsS://www.linkedin.com/in/SEU-USUARIO-LINKEDIN">
